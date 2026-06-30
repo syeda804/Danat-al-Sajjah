@@ -1,2 +1,2 @@
-# Danat-al-Sajjah
+# Danat-al-Sajaah
 A modern, fully responsive business website designed for Danat Al Sajaah Plastic Waste Recycling & Trading L.L.C. The company specializes in recycling and repurposing plastic waste to create a cleaner, greener environment.Features:Clean & modern UI designFully responsive for mobile, tablet & desktopSections: Home, About, Services, E-Catalogue, ContactFast loading & SEO optimizedBuilt with HTML5, CSS3, Bootstrap 5, JavaScriptTech Stack: HTML | CSS | Bootstrap | JavaScript
